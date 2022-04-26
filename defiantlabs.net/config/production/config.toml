@@ -1,4 +1,4 @@
-baseurl = "https://defiantlabs.net/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
+baseurl = "https://dev.defiantlabs.net/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
 title = "Defiant Labs"
 theme = "hugo-universal-theme"
 themesDir = "themes/"
@@ -18,7 +18,7 @@ paginate = 10
 
 # not pluralize title pages by default
 pluralizelisttitles = false
-
+custom_css = ["static/css/custom.css"]
 [menu]
 
 
@@ -38,7 +38,7 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "Services"
     identifier = "menu.services"
-    url        = "/img/template-homepage.png"
+    url        = "/services/"
     weight     = 3
 
 [[menu.main]]
@@ -48,16 +48,22 @@ pluralizelisttitles = false
     weight     = 4
 
 [[menu.main]]
+    name       = "Projects"
+    identifier = "menu.projects"
+    url        = "/projects/"
+    weight     = 5
+
+[[menu.main]]
     name       = "Blog"
     identifier = "menu.blog"
     url        = "/blog/"
-    weight     = 5
+    weight     = 6
 
 [[menu.main]]
     identifier = "contact"
     name       = "Contact"
     url        = "/contact/"
-    weight     = 6
+    weight     = 7
 
 # Top bar social links menu
 
@@ -111,7 +117,7 @@ pluralizelisttitles = false
     longitude = "-77.028333"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
-    style = "violet"
+    style = "dark"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
