@@ -3082,7 +3082,8 @@ fieldset[disabled] .btn-template-primary.active {
   }
 }
 .navbar-default {
-  background-color: rgb(45, 45, 45);
+  background-color: transparent;
+  backdrop-filter: blur(3px);
   color: #f5f5f5;;
   border-color: rgb(45, 45, 45);
   border-bottom: none;
