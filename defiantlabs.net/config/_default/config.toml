@@ -24,46 +24,22 @@ custom_css = ["static/css/custom.css"]
 
 # Main menu
 [[menu.main]]
-    name       = "Home"
-    identifier = "menu.home"
-    url        = "/"
-    weight     = 1
-
-[[menu.main]]
     name       = "About"
     identifier = "menu.about"
-    url        = "/img/template-easy-customize.png"
-    weight     = 3
-
-[[menu.main]]
-    name       = "Services"
-    identifier = "menu.services"
-    url        = "/services/"
-    weight     = 3
-
-[[menu.main]]
-    name       = "Stake"
-    identifier = "menu.stake"
-    url        = ""
-    weight     = 4
-
-[[menu.main]]
-    name       = "Projects"
-    identifier = "menu.projects"
-    url        = "/projects/"
-    weight     = 5
+    url        = "/about/"
+    weight     = 1
 
 [[menu.main]]
     name       = "Blog"
     identifier = "menu.blog"
     url        = "/blog/"
-    weight     = 6
+    weight     = 2
 
 [[menu.main]]
     identifier = "contact"
     name       = "Contact"
     url        = "/contact/"
-    weight     = 7
+    weight     = 3
 
 # Top bar social links menu
 
@@ -230,6 +206,14 @@ custom_css = ["static/css/custom.css"]
     # For more information take a look at the README.
     title = "Testimonials"
     subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+
+[params.projects]
+    enable = true
+    title = "Current Projects"
+    cols = 3 # Default: 3, Available values 2,3,4,6
+    # All features are defined in their own files. You can find example items
+    # at 'exampleSite/data/features'.
+    # For more information take a look at the README.
 
 [params.see_more]
     enable = false
