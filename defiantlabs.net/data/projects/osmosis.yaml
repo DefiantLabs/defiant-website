@@ -1,0 +1,5 @@
+weight: 2
+name: "Osmosis"
+icon: "fas fa-flask"
+url: ""
+description: "Defiant Labs tracks swap fees for liquidty pool swap transactions. We also track arbitrage related capital gains using REST APIs."

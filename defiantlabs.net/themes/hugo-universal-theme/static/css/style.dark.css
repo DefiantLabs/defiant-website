@@ -886,11 +886,13 @@ fieldset[disabled] .btn-template-primary.active {
   letter-spacing: 0.08em;
 }
 .panel.sidebar-menu h3 {
+  color: #f5f5f5;
   padding: 5px 0;
   margin: 0;
 }
 .panel.sidebar-menu {
-  background: #fff;
+  background: rgb(45, 45, 45);
+  color: #f5f5f5;
   margin: 0 0 20px;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -1764,7 +1766,7 @@ fieldset[disabled] .btn-template-primary.active {
   margin-bottom: 0;
 }
 #heading-breadcrumbs h1 {
-  color: #333333;
+  color: #f5f5f5;
   text-transform: uppercase;
   font-size: 30px;
   font-weight: 700;
