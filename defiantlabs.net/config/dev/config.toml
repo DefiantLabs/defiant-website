@@ -42,47 +42,40 @@ custom_css = ["static/css/custom.css"]
     weight     = 3
 
 # Top bar social links menu
-
 [[menu.topbar]]
     weight = 1
-    name = "Phone"
-    url = "tel:+12 34 567 89 01"
-    pre = "<i class='fas fa-2x fa-phone'></i>"
-
-[[menu.topbar]]
-    weight = 2
     name = "GitHub"
     url = "https://github.com/DefiantLabs"
     pre = "<i class='fab fa-2x fa-github'></i>"
 
 [[menu.topbar]]
-    weight = 3
-    name = "Facebook"
-    url = "http://facebook.com"
-    pre = "<i class='fab fa-2x fa-facebook'></i>"
+    weight = 2
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/company/defiantlabs"
+    pre = "<i class='fab fa-2x fa-linkedin'></i>"
 
 [[menu.topbar]]
-    weight = 4
+    weight = 3
     name = "Twitter"
-    url = "http://twitter.com"
+    url = "https://twitter.com/DefiantLabs"
     pre = "<i class='fab fa-2x fa-twitter'></i>"
 
 [[menu.topbar]]
-    weight = 5
+    weight = 4
     name = "Email"
-    url = "mailto:hello@universal.com"
+    url = "mailto:info@defiantlabs.net"
     pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 [params]
     viewMorePostLink = "/blog/"
-    author = "DevCows"
-    defaultKeywords = ["devcows", "hugo", "go"]
+    author = "DefiantLabs"
+    defaultKeywords = ["defiantlabs", "df", "defi"]
     mainSections = ["blog"]
-    defaultDescription = "Site template made by Devcows using Hugo"
+    defaultDescription = "Site template made by DefiantLabs using Hugo"
 
     # Social media
-    facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
-    twitter_site = "GoHugoIO" # the Twitter handle of your site (without the '@')
+    linkedin_site = "" # the LinkedIn handle of your site ('https://www.linkedin.com/company/defiantlabs')
+    twitter_site = "defiantlabs" # the Twitter handle of your site (without the '@')
     default_sharing_image = "img/sharing-default.png"
 
     # Google Maps widget: If `googleMapsApiKey` is not set, no key will be passed to Google (which likely results in a broken map widget).
@@ -137,10 +130,11 @@ custom_css = ["static/css/custom.css"]
 
     dropdown_mouse_over = false
 
-    disabled_logo = false
-    logo_text = "Defiant Labs"
+    disabled_logo = true
+    logo_text = "   Defiant Labs"
 
-    logo = "img/logo.png"
+    #logo = "img/logo.png"
+    logo = "img/dl_logo_1m.png"
     logo_small = "img/logo-small.png"
     contact_url = "/contact"
     address = """<p class="text-uppercase"><strong>Universal Ltd.</strong>
@@ -159,9 +153,9 @@ custom_css = ["static/css/custom.css"]
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello@universal.com.</p>
-      <p class="hidden-md hidden-lg"><a href="tel:+420 777 555 333" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
-      <a href="mailto:hello@universal.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
+    text = """<p class="hidden-sm hidden-xs">Contact us on Twitter @defiantlabs or email us at info@defiantlabs.net.</p>
+      <p class="hidden-md hidden-lg"><a href="https://twitter.com/DefiantLabs" data-animate-hover="pulse"><i class="fas fa-twitter"></i></a>
+      <a href="mailto:info@defiantlabs.net" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
       </p>
       """
 
@@ -231,10 +225,18 @@ custom_css = ["static/css/custom.css"]
     title = "Our Contributions"
     subtitle = ""
 
+[params.platforms]
+    enable = true
+    # All clients are defined in their own files. You can find example items
+    # at 'exampleSite/data/clients'.
+    # For more information take a look at the README.
+    title = "Platforms"
+    subtitle = ""
+
 [params.recent_posts]
     enable = true
     title = "From our blog"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+    subtitle = ""
     hide_summary = false
 
 [params.footer.recent_posts]
