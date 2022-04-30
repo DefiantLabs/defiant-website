@@ -100,6 +100,7 @@ button {
 }
 p.lead {
   margin-bottom: 40px;
+  color: #fff;
 }
 section,
 div.section {
@@ -151,7 +152,7 @@ div.section {
   color: #fff;
   line-height: 80px;
   border-radius: 40px;
-  border: solid 1px #fff;
+  border: solid 1px rgb(45 45 45);
   font-size: 20px;
 }
 .icon.icon-lg {
@@ -1284,7 +1285,8 @@ fieldset[disabled] .btn-template-primary.active {
 .testimonials .item {
   list-style-type: none;
   margin: 0 5px;
-  background: #fff;
+  background: rgb(45, 45, 45);
+  color: #f5f5f5;
   padding-bottom: 60px;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -1754,7 +1756,7 @@ fieldset[disabled] .btn-template-primary.active {
   border: none;
 }
 #heading-breadcrumbs {
-  background: url('../img/texture-violet.png') center center repeat;
+  background: url('../img/space-purp.jpg') center center repeat;
   padding: 20px 0;
   margin-bottom: 40px;
 }
@@ -1783,7 +1785,7 @@ fieldset[disabled] .btn-template-primary.active {
   padding: 60px 0;
 }
 .bar.background-pentagon {
-  background: url('../img/texture-violet.png') center center repeat;
+  background: url('../img/space-purp.jpg') center center repeat;
   border-top: solid 1px #999999;
   border-bottom: solid 1px #999999;
 }
@@ -3416,7 +3418,7 @@ h3,
 }
 p {
   margin: 0 0 10px;
-  color: #f5f5f5;
+  color: #999999;
 }
 .lead {
   margin-bottom: 20px;
