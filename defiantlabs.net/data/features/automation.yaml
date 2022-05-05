@@ -1,5 +1,0 @@
-weight: 2
-name: "Automation"
-icon: "fas fa-tools"
-url: ""
-description: "We love automation tools. We use Python, Go, terraform amongst other tools to automate Cloud infrastructure. Code should be documented, reusable, provide the ability the provision cloud resources without manual intervention."

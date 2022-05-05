@@ -1,0 +1,179 @@
+######################## default configuration ####################
+baseurl = "http://dev.defiant-labs.net"
+languageCode = "en-us"
+title = "Defiant Labs - Tools for Cosmos Ecosystem"
+theme = "orbitor-hugo"
+themesDir = "themes/"
+summaryLength = "10"
+paginate = 4
+# google analytics
+googleAnalytics = "" # example : UA-123-45
+# disqus short name
+disqusShortname = "themefisher-template" # get your shortname form here : https://disqus.com
+
+[outputs]
+home = ["HTML", "JSON"]
+
+############################# Plugins ##############################
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/css/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themify/css/themify-icons.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.min.css"
+[[params.plugins.css]]
+link = "https://fonts.googleapis.com/css2?family=Montserrat:wght@700;900&family=Rubik&display=swap"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/js/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+link = "plugins/search/mark.js"
+[[params.plugins.js]]
+link = "plugins/search/search.js"
+[[params.plugins.js]]
+link = "plugins/google-map/map.js"
+
+  
+############################## navigation ###############################
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "about"
+weight = 2
+
+[[menu.main]]
+name = "Portfolio"
+url = "portfolio"
+weight = 3
+
+[[menu.main]]
+weight = 4
+name = "Pages"
+hasChildren = true
+
+  [[menu.main]]
+  parent = "Pages"
+  name = "Blog"
+  url = "blog"
+
+  [[menu.main]]
+  parent = "Pages"
+  name = "Service"
+  url = "service"
+  
+[[menu.main]]
+name = "Contact"
+url = "contact"
+weight = 5
+
+# footer menu 1
+[[menu.company]]
+name = "About"
+url = "about"
+weight = 2
+
+[[menu.company]]
+name = "Portfolio"
+url = "portfolio"
+weight = 3
+
+[[menu.company]]
+name = "Service"
+url = "service"
+weight = 4
+
+[[menu.company]]
+name = "Blog"
+url = "blog"
+weight = 5
+
+[[menu.company]]
+name = "Contact"
+url = "contact"
+weight = 6
+
+# footer menu 2
+[[menu.support]]
+name = "About"
+url = "about"
+weight = 1
+
+[[menu.support]]
+name = "Portfolio"
+url = "portfolio"
+weight = 2
+
+[[menu.support]]
+name = "Service"
+url = "service"
+weight = 3
+
+[[menu.support]]
+name = "Blog"
+url = "blog"
+weight = 4
+
+[[menu.support]]
+name = "Contact"
+url = "contact"
+weight = 5
+
+#################### default parameters ################################
+[params]
+logo = "images/logo-small.png"
+logo_white = "images/defiant.png"
+# Meta data
+description = "Defiant Labs - Building tools in the cosmos"
+author = "Themefisher"
+# contact info
+#mobile = "+23-345-67890"
+email = "info@defiantlabs.net"
+#location = "North Main Street,Brooklyn Australia"
+footer_content = "Building tools in the cosmos."
+# copyright
+copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+
+# Preloader
+[params.preloader]
+enable = false
+preloader = "" # use jpg, png, svg or gif format.
+
+# Navigation button
+[params.navigation_button]
+enable = false
+label = "Get an estimate"
+link = "contact"
+
+# cookies
+[params.cookies]
+enable = false
+expire_days = 2
+
+################################# Social icon #######################
+[[params.social]]
+icon = "ti-linkedin"
+link = "https://www.linkedin.com/company/defiantlabs"
+
+[[params.social]]
+icon = "ti-twitter-alt"
+link = "https://twitter.com/DefiantLab"
+
+[[params.social]]
+icon = "ti-github"
+link = "https://github.com/DefiantLabs"
+
+[[params.social]]
+icon = "ti-email"
+link = "mailto:info@defiantlabs.net"

@@ -1,0 +1,147 @@
+####################### Banner ##########################################
+banner:
+  enable: true
+  bg_image : "images/bg/main-banner1.jpg"
+  subtitle : "Building powerful"
+  title : "Tools for the Cosmos Ecosystem"
+  content : "We are looking to give back to the DeFi community by building tools.
+       We truly believe our tools will make mainstream adoption easier."
+  button:
+    enable : true
+    label : "Learn more about Defiant Labs"
+    link : "about"
+
+
+########################### Banner feature ################################
+banner_feature:
+  enable : true
+  feature_item:
+    # feature item loop
+    - icon : "ti-light-bulb" # here we use themify icon pack : https://themify.me/themify-icons
+      title : "Custom Effective Software development"
+      content : "Saepe nulla praesentium eaque omnis perferendis a doloremque."
+      
+    # feature item loop
+    - icon : "ti-panel" # here we use themify icon pack : https://themify.me/themify-icons
+      title : "Analyse Your Expensees On Every Device"
+      content : "Saepe nulla praesentium eaque omnis perferendis a doloremque."
+      
+    # feature item loop
+    - icon : "ti-headphone-alt" # here we use themify icon pack : https://themify.me/themify-icons
+      title : "Creating a dedicated IT business growth"
+      content : "Saepe nulla praesentium eaque omnis perferendis a doloremque."
+
+########################## features #######################################
+feature:
+  enable : true
+  subtitle : "Why choose us"
+  title : "We help you to make work easy"
+  content : "We understand what your business means to you,your requirements considering trends.Smet nemo excepturi voluptas eligendi ."
+  feature_item:
+    # feature item loop
+    - icon : "ti-light-bulb" # here we use themify icon pack : https://themify.me/themify-icons
+      title : "Data analysis"
+      content : "A complete web app solution for business"
+      
+    # feature item loop
+    - icon : "ti-panel" # here we use themify icon pack : https://themify.me/themify-icons
+      title : "Web Development"
+      content : "A complete web app solution for business"
+      
+    # feature item loop
+    - icon : "ti-search" # here we use themify icon pack : https://themify.me/themify-icons
+      title : "Content Mangement"
+      content : "A complete web app solution for business"
+      
+    # feature item loop
+    - icon : "ti-rocket" # here we use themify icon pack : https://themify.me/themify-icons
+      title : "Mobility"
+      content : "A complete web app solution for business"
+
+########################### Call to action #####################################
+call_to_action:
+  enable: false
+  title : "Supported Platforms"
+  content : "An Independent Validation and Testing services from SISAR. Helps to reduce software development efforts"
+  button:
+    enable: true
+    label : "Portfolio"
+    link : "portfolio"
+
+################################### portfolio ####################################
+project:
+  enable: true
+  title : "We’ve Done Lot’s of Work, Let’s Check Some From Here"
+  content : "We have the best experts to elevate your business to the next level, try is and you will see!"
+
+  # project item comes from "content/project" folder
+
+################################ Counter #######################################
+counter:
+  enable : true
+  counter_item :
+    # counter item loop
+    - title : "Project Done"
+      count : "1730"
+      unit : "+"
+      
+    # counter item loop
+    - title : "Contributions"
+      count : "2"
+      unit : ""
+      
+    # counter item loop
+    - title : "Platforms"
+      count : "3"
+      unit : ""
+
+########################## Testimonial #############################################
+testimonial:
+  enable: true
+  title : "What they say about us"
+  content : ""
+  testimonial_item:
+    # testimonial item loop
+    - name : "Michael Wilkins"
+      image : "images/testimonials/michael-wilkins.png"
+      occupation : "Cloud Engineer"
+      content : "I'm thankful that Defiant Labs introduced me to the Crypto Space. With his council, I've been able to 
+            make informed decision on my investments and make the most out of my positions. To this day I still reach 
+            out to Dan for his guidance and outlook on the DeFi space. He's always ahead of the curve and really connected 
+            with the community. I recommend reaching out to Defiant Labs for Crypto & DeFi. Your future self will thank you."
+            
+    # testimonial item loop
+    - name : "Melvin Skolnick"
+      image : "images/testimonials/melvin-skolnick.png"
+      occupation : "Cloud Engineer"
+      content : "Defiant Labs has an incredible way to digest information from all sources and separate the noise from 
+            the worthwhile information, which is amazing in the crypto space where there are so many “noisy” sources. After 
+            obtaining good information, he then has the mental capacity to synthesize the information into repeatable formulas 
+            to find efficiencies and gain the most profit. Anytime I’m trying something new in the Defi/Crypto space I always consult 
+            with Defiant Labs because I’m sure he’s already 10 steps ahead."
+            
+    # testimonial item loop
+    - name : "Daniel L."
+      image : "images/testimonials/daniel-l.png"
+      occupation : "Investor and part-time trader"
+      content : "Defiant Labs has a very insightful look into the world of defi crypto currencies. His understanding of the staking opportunities 
+            that lie with the LUNA and ATOM networks is next to none when compared to others within the space. When it comes to alternative 
+            investing and how one goes about tax preparation he knows all the in’s and outs. I would fully recommend his services to anyone I 
+            know investing in the crypto space."
+
+    # testimonial item loop
+    - name : "Alan Zavala"
+      image : "images/testimonials/alan-l.png"
+      occupation : "IT Specialist"
+      content : "The most impressive skill Defiant Labs has is his ability to break down complex concepts so anyone can understand them. Defiant Lab’s presentations 
+            have helped me understand the utility and power of Crypto & DeFi. I no longer feel intimidated by by these concepts and neither will you!"  
+
+    # testimonial item loop
+    - name : "Ishaya Daniel, PharmD"
+      image : "images/testimonials/ishaya-l.png"
+      occupation : "Pharmacist"
+      content : "Defiant Labs introduced me to decentralized finance, through Defiant Labs he has been a great resource for all things crypto. Defiant Labs has helped me to 
+            design a portfolio of assets that meets my growing families’ needs. He is easy to talk to and provides professional consults over video chat 
+            to help me keep my portfolio organized. Dan has also helped me to understanding how taxes are applied to my investment gains and losses in crypto. 
+            I would strongly recommend partnering with Defiant Labs for anyone who wants to understand more about crypotcurrencies, NFTS, decentralized finance, 
+            cryptocurrency taxes and regulations, as well as technical aspects of blockchain technology."       
