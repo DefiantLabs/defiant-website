@@ -56,7 +56,7 @@ feature:
     # feature item loop
     - icon : "ti-server" # here we use themify icon pack : https://themify.me/themify-icons
       title : "Validators"
-      content : "A complete web app solution for business"
+      content : "We track swap fees for liquidity pool swap transactions. We also Track the arbitrage related capital gains (on Osmosis DEX)"
 
 ########################### Call to action #####################################
 call_to_action:
@@ -81,8 +81,8 @@ counter:
   enable : true
   counter_item :
     # counter item loop
-    - title : "Project Done"
-      count : "1730"
+    - title : "Project in Progress"
+      count : "2"
       unit : "+"
       
     # counter item loop

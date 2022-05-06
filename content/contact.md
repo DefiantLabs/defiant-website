@@ -9,19 +9,18 @@ draft: false
 contact:
   subtitle : "Send a message"
   title : "Contact Form"
-  form_action: "#" # Contact form works with https://formspree.io/
+  form_action: https://formspree.io/f/xqkngggy
   contact_topics:
-  - "Software Design"
-  - "Development cycle"
-  - "Software Development"
-  - "Maintenance"
-  - "Process Query"
-  - "Cost and Duration"
-  - "Modal Delivery"
+  - "Crypto Consulting"
+  - "Web3 Development"
+  - "Stake Node Operator"
+  - "Tax Tool"
+  - "Osmosis"
+
 
 ####################### map ######################
 map:
-  enable : true
+  enable : false
   gmap_api : "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
   map_latitude : "51.5223477"
   map_longitude : "-0.1622023"
@@ -29,7 +28,7 @@ map:
   
 ##################### branch ######################
 branch:
-  enable : true
+  enable : false
   branch_office:
   # branch office loop
   - title : "Corporate Office"

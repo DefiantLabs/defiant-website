@@ -30,7 +30,7 @@ counter:
 
 ####################### Promo video ######################
 video:
-  enable: true
+  enable: false
   title : "Growing Software Company Since 2008"
   video_thumb: "images/about/img-34.png"
   video_embed_link : "https://www.youtube.com/embed/dyZcRRWiuuw"

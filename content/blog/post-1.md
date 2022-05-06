@@ -1,7 +1,7 @@
 ---
 title: "How to Organize Your Office for Maximum Productivity?"
 date: 2019-09-05T15:24:04+06:00
-draft: false
+draft: true
 description: "This is meta description"
 page_header_bg: "images/bg/section-bg5.jpg"
 image: "images/blog/blog-1.jpg"
