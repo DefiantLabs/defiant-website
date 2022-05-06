@@ -8,12 +8,12 @@ draft: false
 ######################### Counter ####################
 counter:
   enable: true
-  title : "We help entreprenuers <br>starts up and turn <span class=\"text-color\">their ideas into</span> produtcs"
+  title : "We build tools <br>for the Cosmos Ecosystem <span class=\"text-color\">to help mainstream</span> adoption easier."
   counter_item:
   # counter item loop
   - icon : "ti-thumb-up" # here we use themify icon pack : https://themify.me/themify-icons
-    title : "Project Done"
-    count : "1730"
+    title : "Current Projects"
+    count : "2"
     unit : "+"
     
   # counter item loop
@@ -70,7 +70,19 @@ clients:
   logos:
   - "images/clients/cosmos.png"
   - "images/clients/dao-dao.png"
-    
+
+
+################################ Platforms ######################
+platforms:
+  enable : true
+  title : "Supported platforms"
+  content : ""
+  logos:
+  - "images/platforms/aws.png"
+  - "images/platforms/azure.png"
+  - "images/platforms/google-cloud.png"
+
+
 ########################## Testimonial ########################
 testimonial:
   enable: true

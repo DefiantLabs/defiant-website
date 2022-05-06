@@ -14,7 +14,7 @@ banner:
 
 ########################### Banner feature ################################
 banner_feature:
-  enable : true
+  enable : false
   feature_item:
     # feature item loop
     - icon : "ti-light-bulb" # here we use themify icon pack : https://themify.me/themify-icons
@@ -39,23 +39,23 @@ feature:
   content : "We understand what your business means to you,your requirements considering trends.Smet nemo excepturi voluptas eligendi ."
   feature_item:
     # feature item loop
-    - icon : "ti-light-bulb" # here we use themify icon pack : https://themify.me/themify-icons
-      title : "Data analysis"
-      content : "A complete web app solution for business"
+    - icon : "ti-cloud" # here we use themify icon pack : https://themify.me/themify-icons
+      title : "Cloud Expertise"
+      content : "We provide our expertise in AWS, Azure, GCP. We assess your organization’s technology infrastructure and explore options to solve problems and come up with the best solution."
       
     # feature item loop
-    - icon : "ti-panel" # here we use themify icon pack : https://themify.me/themify-icons
-      title : "Web Development"
-      content : "A complete web app solution for business"
+    - icon : "ti-control-forward" # here we use themify icon pack : https://themify.me/themify-icons
+      title : "Automation"
+      content : "We love automation tools. We use Python, Go, terraform amongst other tools to automate Cloud infrastructure. Code should be documented, reusable, provide the ability the provision cloud resources without manual intervention"
       
     # feature item loop
-    - icon : "ti-search" # here we use themify icon pack : https://themify.me/themify-icons
-      title : "Content Mangement"
-      content : "A complete web app solution for business"
+    - icon : "ti-wallet" # here we use themify icon pack : https://themify.me/themify-icons
+      title : "Crypto & DeFi"
+      content : "We maintain validator nodes to verify and maintain a record of transactions. We develop tools for the Decentralized Finance (DeFi) community to help make crypto adoption easier."
       
     # feature item loop
-    - icon : "ti-rocket" # here we use themify icon pack : https://themify.me/themify-icons
-      title : "Mobility"
+    - icon : "ti-server" # here we use themify icon pack : https://themify.me/themify-icons
+      title : "Validators"
       content : "A complete web app solution for business"
 
 ########################### Call to action #####################################
@@ -131,14 +131,14 @@ testimonial:
 
     # testimonial item loop
     - name : "Alan Zavala"
-      image : "images/testimonials/alan-l.png"
+      image : "images/testimonials/alan.png"
       occupation : "IT Specialist"
       content : "The most impressive skill Defiant Labs has is his ability to break down complex concepts so anyone can understand them. Defiant Lab’s presentations 
             have helped me understand the utility and power of Crypto & DeFi. I no longer feel intimidated by by these concepts and neither will you!"  
 
     # testimonial item loop
     - name : "Ishaya Daniel, PharmD"
-      image : "images/testimonials/ishaya-l.png"
+      image : "images/testimonials/ishaya.png"
       occupation : "Pharmacist"
       content : "Defiant Labs introduced me to decentralized finance, through Defiant Labs he has been a great resource for all things crypto. Defiant Labs has helped me to 
             design a portfolio of assets that meets my growing families’ needs. He is easy to talk to and provides professional consults over video chat 

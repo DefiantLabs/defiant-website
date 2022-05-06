@@ -140,6 +140,37 @@
 {{ end }}
 <!-- clients slider -->
 
+<!-- platforms slider -->
+{{ if .Params.platforms.enable }}
+{{ with .Params.platforms }}
+<section class="section awards bg-light">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8">
+        <div class="why-content">
+          <h2 class="mb-4">{{ .title | markdownify }}</h2>
+          <p class="mb-5">{{ .content | markdownify }}</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      {{ range .logos }}
+      <div class="col-lg-2 col-md-3 col-sm-4">
+        <div class="award-img-block mb-4 mb-lg-0">
+          <div class="award-img">
+            <img loading="lazy" src="{{ . | absURL }}" class="img-fluid">
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- platforms slider -->
+
 {{ if .Params.homepage.testimonial.enable }}
 {{ partial "testimonial.html" . }}
 {{ end }}
