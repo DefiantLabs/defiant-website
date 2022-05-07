@@ -143,7 +143,7 @@ email = "info@defiantlabs.net"
 #location = "North Main Street,Brooklyn Australia"
 footer_content = "Building tools in the cosmos."
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Founded in 2022, Defiant Labs focuses on Development and Operations in Blockchain environments"
 
 # Preloader
 [params.preloader]
@@ -168,7 +168,15 @@ link = "https://www.linkedin.com/company/defiantlabs"
 
 [[params.social]]
 icon = "ti-twitter-alt"
-link = "https://twitter.com/DefiantLab"
+link = "https://twitter.com/DefiantLabs"
+
+[[params.social]]
+icon = "ti-discord"
+link = "https://discord.gg/GVrA9PqQAq"
+
+[[params.social]]
+icon = "ti-youtube"
+link = "https://www.youtube.com/channel/UCGgtZQ6PKNBa2O7hRnNRSKw"
 
 [[params.social]]
 icon = "ti-github"
