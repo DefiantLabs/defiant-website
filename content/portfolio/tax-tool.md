@@ -5,7 +5,7 @@ draft: false
 description: "Tax tool for the Cosmos Ecosystem"
 page_header_bg: "images/bg/section-bg5.jpg"
 category: "Web Development"
-image : "images/portfolio/2.jpg"
+image : "images/portfolio/taxes.png"
 ---
 
 

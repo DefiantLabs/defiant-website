@@ -1,0 +1,116 @@
+baseurl: 'https://defiant-labs.net'
+languageCode: en-us
+title: Defiant Labs
+theme: orbitor-hugo
+themesDir: themes/
+summaryLength: '10'
+paginate: 4
+googleAnalytics: ''
+disqusShortname: themefisher-template
+outputs:
+  home:
+    - HTML
+    - JSON
+params:
+  plugins:
+    css:
+      - link: plugins/bootstrap/css/bootstrap.min.css
+      - link: plugins/themify/css/themify-icons.css
+      - link: plugins/slick/slick.min.css
+      - link: >-
+          https://fonts.googleapis.com/css2?family=Montserrat:wght@700;900&family=Rubik&display=swap
+    js:
+      - link: plugins/jQuery/jquery.min.js
+      - link: plugins/bootstrap/js/bootstrap.min.js
+      - link: plugins/slick/slick.min.js
+      - link: plugins/search/fuse.min.js
+      - link: plugins/search/mark.js
+      - link: plugins/search/search.js
+      - link: plugins/google-map/map.js
+  logo: 'images/defiant.png'
+  logo_white: ''
+  description: Defiant Labs - Building tools in the cosmos
+  author: Themefisher
+  email: info@defiantlabs.net
+  footer_content: Building tools in the cosmos.
+  copyright: >-
+    Founded in 2022, Defiant Labs focuses on Development and Operations in
+    Blockchain environments
+  preloader:
+    enable: false
+    preloader: ''
+  navigation_button:
+    enable: false
+    label: Get an estimate
+    link: contact
+  cookies:
+    enable: false
+    expire_days: 2
+  social:
+    - icon: ti-linkedin
+      link: 'https://www.linkedin.com/company/defiantlabs'
+    - icon: ti-twitter-alt
+      link: 'https://twitter.com/DefiantLabs'
+    - icon: ti-discord
+      link: 'https://discord.gg/GVrA9PqQAq'
+    - icon: ti-youtube
+      link: 'https://www.youtube.com/channel/UCGgtZQ6PKNBa2O7hRnNRSKw'
+    - icon: ti-github
+      link: 'https://github.com/DefiantLabs'
+    - icon: ti-email
+      link: 'mailto:info@defiantlabs.net'
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: About
+      url: about
+      weight: 2
+    - name: Portfolio
+      url: portfolio
+      weight: 3
+    - weight: 4
+      name: Pages
+      hasChildren: true
+    - parent: Pages
+      name: Blog
+      url: blog
+    - parent: Pages
+      name: Service
+      url: service
+    - name: Contact
+      url: contact
+      weight: 5
+  company:
+    - name: About
+      url: about
+      weight: 2
+    - name: Portfolio
+      url: portfolio
+      weight: 3
+    - name: Service
+      url: service
+      weight: 4
+    - name: Blog
+      url: blog
+      weight: 5
+    - name: Contact
+      url: contact
+      weight: 6
+  support:
+    - name: About
+      url: about
+      weight: 1
+    - name: Portfolio
+      url: portfolio
+      weight: 2
+    - name: Service
+      url: service
+      weight: 3
+    - name: Blog
+      url: blog
+      weight: 4
+    - name: Contact
+      url: contact
+      weight: 5

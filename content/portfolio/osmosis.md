@@ -5,7 +5,7 @@ draft: false
 description: "Tooling for Osmosis"
 page_header_bg: "images/bg/section-bg5.jpg"
 category: "Crypto & Defi"
-image : "images/portfolio/1.jpg"
+image : "images/portfolio/osmosis.jpeg"
 ---
 
 

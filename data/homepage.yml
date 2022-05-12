@@ -3,9 +3,8 @@ banner:
   enable: true
   bg_image : "images/bg/main-banner1.jpg"
   subtitle : "Building powerful"
-  title : "Tools for the Cosmos Ecosystem"
-  content : "We are looking to give back to the DeFi community by building tools.
-       We truly believe our tools will make mainstream adoption easier."
+  title : "tools in Cosmos."
+  content : "We are seasoned developers and engineers with a passion for decentralized finance. We are focused on building tools around the cosmos-sdk, cosmwasm, and the IBC. Contact us to learn more."
   button:
     enable : true
     label : "Learn more about Defiant Labs"
@@ -35,46 +34,46 @@ banner_feature:
 feature:
   enable : true
   subtitle : "Why choose us"
-  title : "We help you to make work easy"
-  content : "We understand what your business means to you,your requirements considering trends.Smet nemo excepturi voluptas eligendi ."
+  title : "Experts at cosmos-sdk, cosmwasm, and cosmos nodes."
+  content : "We provide custom code development around the cosmos-sdk. We have DevOps expertise to keep your nodes available and secure. We solve problems in the cosmos that align with our skill set."
   feature_item:
     # feature item loop
     - icon : "ti-cloud" # here we use themify icon pack : https://themify.me/themify-icons
-      title : "Cloud Expertise"
-      content : "We provide our expertise in AWS, Azure, GCP. We assess your organization’s technology infrastructure and explore options to solve problems and come up with the best solution."
+      title : "Cloud Automation"
+      content : "aws, gcp, azure, kubernetes, terraform devops."
       
     # feature item loop
     - icon : "ti-control-forward" # here we use themify icon pack : https://themify.me/themify-icons
-      title : "Automation"
-      content : "We love automation tools. We use Python, Go, terraform amongst other tools to automate Cloud infrastructure. Code should be documented, reusable, provide the ability the provision cloud resources without manual intervention"
+      title : "Cosmos Nodes"
+      content : "Validator Nodes, Full Nodes, Archive Nodes, Light nodes..."
       
     # feature item loop
     - icon : "ti-wallet" # here we use themify icon pack : https://themify.me/themify-icons
-      title : "Crypto & DeFi"
-      content : "We maintain validator nodes to verify and maintain a record of transactions. We develop tools for the Decentralized Finance (DeFi) community to help make crypto adoption easier."
+      title : "Cosmos Development and Engineering"
+      content : "Custom cosm wasm development and engineering"
       
     # feature item loop
     - icon : "ti-server" # here we use themify icon pack : https://themify.me/themify-icons
-      title : "Validators"
-      content : "We track swap fees for liquidity pool swap transactions. We also Track the arbitrage related capital gains (on Osmosis DEX)"
+      title : "Content Creation"
+      content : "Community engagement, youtube videos, twitter spaces."
 
 ########################### Call to action #####################################
 call_to_action:
-  enable: false
-  title : "Supported Platforms"
-  content : "An Independent Validation and Testing services from SISAR. Helps to reduce software development efforts"
+  enable: true
+  title : "Delegate to our Validators"
+  content : "If you like what we build, agree with how we vote on governance propsals, and trust us to secure the network, consider delegating your tokens with us."
   button:
     enable: true
-    label : "Portfolio"
+    label : "Delegate"
     link : "portfolio"
 
 ################################### portfolio ####################################
 project:
   enable: true
-  title : "We’ve Done Lot’s of Work, Let’s Check Some From Here"
-  content : "We have the best experts to elevate your business to the next level, try is and you will see!"
+  title : "What were building..."
+  content : "Check out our current projects and let us know what you think."
 
-  # project item comes from "content/project" folder
+  # project item comes from "content/portfolio" folder
 
 ################################ Counter #######################################
 counter:
