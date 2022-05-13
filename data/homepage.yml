@@ -1,7 +1,7 @@
 ####################### Banner ##########################################
 banner:
   enable: true
-  bg_image : "images/bg/main-banner1.jpg"
+  bg_image : "images/bg/main-banner1.png"
   subtitle : "Building powerful"
   title : "tools in Cosmos."
   content : "We are seasoned developers and engineers with a passion for decentralized finance. We are focused on building tools around the cosmos-sdk, cosmwasm, and the IBC. Contact us to learn more."
@@ -104,43 +104,31 @@ testimonial:
     - name : "Michael Wilkins"
       image : "images/testimonials/michael-wilkins.png"
       occupation : "Cloud Engineer"
-      content : "I'm thankful that Defiant Labs introduced me to the Crypto Space. With his council, I've been able to 
-            make informed decision on my investments and make the most out of my positions. To this day I still reach 
-            out to Dan for his guidance and outlook on the DeFi space. He's always ahead of the curve and really connected 
-            with the community. I recommend reaching out to Defiant Labs for Crypto & DeFi. Your future self will thank you."
+      content : "I'm thankful that Defiant Labs introduced me to the Crypto Space. With their council, I've been able to 
+            make informed decision on my investments and make the most out of my positions."
             
     # testimonial item loop
     - name : "Melvin Skolnick"
       image : "images/testimonials/melvin-skolnick.png"
       occupation : "Cloud Engineer"
-      content : "Defiant Labs has an incredible way to digest information from all sources and separate the noise from 
-            the worthwhile information, which is amazing in the crypto space where there are so many “noisy” sources. After 
-            obtaining good information, he then has the mental capacity to synthesize the information into repeatable formulas 
-            to find efficiencies and gain the most profit. Anytime I’m trying something new in the Defi/Crypto space I always consult 
-            with Defiant Labs because I’m sure he’s already 10 steps ahead."
+      content : "Anytime I’m trying something new in the Decentralized Finance / Cryptocurrency space I always consult 
+            with Defiant Labs. Defiant Labs is alwas ahead of the curve on anything i try."
             
     # testimonial item loop
     - name : "Daniel L."
       image : "images/testimonials/daniel-l.png"
       occupation : "Investor and part-time trader"
-      content : "Defiant Labs has a very insightful look into the world of defi crypto currencies. His understanding of the staking opportunities 
-            that lie with the LUNA and ATOM networks is next to none when compared to others within the space. When it comes to alternative 
-            investing and how one goes about tax preparation he knows all the in’s and outs. I would fully recommend his services to anyone I 
-            know investing in the crypto space."
+      content : "Defiant Labs has a very insightful look into the world of defi crypto currencies. Their understanding of Cosmos networks are next to none when compared to others within the space."
 
     # testimonial item loop
     - name : "Alan Zavala"
       image : "images/testimonials/alan.png"
       occupation : "IT Specialist"
-      content : "The most impressive skill Defiant Labs has is his ability to break down complex concepts so anyone can understand them. Defiant Lab’s presentations 
-            have helped me understand the utility and power of Crypto & DeFi. I no longer feel intimidated by by these concepts and neither will you!"  
+      content : "Defiant Lab’s presentations 
+            have helped me understand the utility and power of Crypto Currency and Decentralized Finance. I no longer feel intimidated by by these concepts"  
 
     # testimonial item loop
     - name : "Ishaya Daniel, PharmD"
       image : "images/testimonials/ishaya.png"
       occupation : "Pharmacist"
-      content : "Defiant Labs introduced me to decentralized finance, through Defiant Labs he has been a great resource for all things crypto. Defiant Labs has helped me to 
-            design a portfolio of assets that meets my growing families’ needs. He is easy to talk to and provides professional consults over video chat 
-            to help me keep my portfolio organized. Dan has also helped me to understanding how taxes are applied to my investment gains and losses in crypto. 
-            I would strongly recommend partnering with Defiant Labs for anyone who wants to understand more about crypotcurrencies, NFTS, decentralized finance, 
-            cryptocurrency taxes and regulations, as well as technical aspects of blockchain technology."       
+      content : "I would strongly recommend partnering with Defiant Labs for anyone who wants to understand more about decentralized finance, as well as technical aspects of blockchain technology."       
