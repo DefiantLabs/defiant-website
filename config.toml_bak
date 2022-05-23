@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseurl = "http://defiant-labs.net"
+baseurl = "http://defiantlabs.net"
 languageCode = "en-us"
 title = "Defiant Labs"
 theme = "orbitor-hugo"
