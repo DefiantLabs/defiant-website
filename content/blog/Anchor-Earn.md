@@ -5,7 +5,7 @@ description: "Earn 20% Yield with Anchor Protocol."
 page_header_bg : "images/bg/section-bg5.jpg"
 image: "images/blog/anchor-yield.jpeg"
 author: "Michael Wilkins"
-draft: false
+draft: true
 comments: true
 categories: 
   - "Crypto & DeFi"
