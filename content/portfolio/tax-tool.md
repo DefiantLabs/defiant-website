@@ -1,20 +1,27 @@
 ---
-title: "Tax Tool"
+title: "Sycamore"
 date: 2021-05-05T15:24:04+06:00
 draft: false
-description: "Tax tool for the Cosmos Ecosystem"
+description: "Sycamore Tax - tool for tracking taxes in the Cosmos Ecosystem"
 page_header_bg: "images/bg/section-bg5.jpg"
-category: "Web Development"
+category: "Tax App"
 image : "images/portfolio/taxes.png"
 ---
 
 
 ### Keeping track of your transactions for your taxes is about to get a whole lot easier. 
 
-Defiant Labs develops tax software that provides CSV formatted spreadsheets for the Cosmos Ecosystem. The CSV data includes taxable information and it’s compatible with popular tax software such as Accointing and Turbo Tax. 
+Sycamore Tax provides tooling to generate files of your Cosmos activity. We support CSV's compatible with taxsoftware such as cointracker.io, accointing, koinly, and turbotax.  We also support generating the IRS form 8949 that you can hand directly to your CPA. 
 
-- **Project Name:** Business Accounting
-- **Client:** Company Name Inc.
-- **Project Start Date:** February 18, 2018
-- **Project Completion Date:** January 25, 2018
-- **Project url:** www.example.com
+Some specific features:
+- Taxable data for Osmosis Liqudity pool bonding/unbonding and rewards (including superfluid staking)
+- Tracking of swap fees for liquidity pool swap transactions
+- Tracking of arbitrage related capital gains (on Osmosis DEX)
+- Accointing and TurboTax compatible CSVs with Osmosis specific data (as above)
+- REST APIs (middleware) for retrieving data (as above)
+
+- **Project Name:** Sycamore Tax
+- **Client:** Defiant Labs.
+- **Project Start Date:** May 01, 2022
+- **Project Completion Date:** October 01, 2022
+- **Project url:** https://sycamore.tax

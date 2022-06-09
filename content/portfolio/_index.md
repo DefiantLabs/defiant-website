@@ -5,6 +5,6 @@ description: "This is meta description"
 page_header_bg: "images/bg/section-bg5.jpg"
 ---
 
-## Let’s Check Some Works
+## Check out our projects
 
-We have the best experts to elevate your business to the next level, try is and you will see! We have the best experts to elevate your
+We primarly contribute to the cosmos eco system.  We are building tooling and automations to promote decentralization.  Additionaly we are build the Sycamore Tax app, to track all Cosmos activity for US Taxes.

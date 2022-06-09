@@ -4,7 +4,7 @@
       {{ if .IsHome }}
       <img loading="lazy" src="{{ site.Params.logo | absURL }}" alt="{{ site.Title }}" class="img-fluid">
       {{ else }}
-      <img loading="lazy" src="{{ site.Params.logo_white | absURL }}" alt="{{ site.Title }}" class="img-fluid hidden-logo">
+      <img loading="lazy" src="{{ site.Params.logo | absURL }}" alt="{{ site.Title }}" class="img-fluid">
       <img loading="lazy" src="{{ site.Params.logo | absURL }}" alt="{{ site.Title }}" class="img-fluid mobile-logo">
       {{ end }}
     </a>

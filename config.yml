@@ -27,11 +27,13 @@ params:
       - link: plugins/search/mark.js
       - link: plugins/search/search.js
       - link: plugins/google-map/map.js
-  logo: 'images/defiant2.png'
+  logo: 'images/logo.png'
   logo_white: ''
   description: Defiant Labs - Building tools in the cosmos
   author: Themefisher
   email: info@defiantlabs.net
+  location: Columbia, Maryland
+  mobile: +1 667-271-0105
   footer_content: Building tools in the cosmos.
   copyright: >-
     Founded in 2022, Defiant Labs focuses on Development and Operations in

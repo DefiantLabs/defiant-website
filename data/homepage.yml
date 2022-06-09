@@ -65,7 +65,7 @@ call_to_action:
   button:
     enable: true
     label : "Delegate"
-    link : "portfolio"
+    link : "delegate"
 
 ################################### portfolio ####################################
 project:

@@ -14,17 +14,17 @@ contact:
   - "Crypto Consulting"
   - "Web3 Development"
   - "Stake Node Operator"
-  - "Tax Tool"
-  - "Osmosis"
+  - "Sycamore Tax"
+  - "Devops Support"
 
 
 ####################### map ######################
 map:
-  enable : false
+  enable : true
   gmap_api : "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-  map_latitude : "51.5223477"
-  map_longitude : "-0.1622023"
-  map_marker : "images/marker.png"
+  map_latitude : "39.2096698"
+  map_longitude : "-76.8625557"
+  # map_marker : "images/marker.png"
   
 ##################### branch ######################
 branch:
