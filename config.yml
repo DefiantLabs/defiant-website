@@ -53,7 +53,7 @@ params:
       link: 'https://www.linkedin.com/company/defiantlabs'
     - icon: ti-twitter-alt
       link: 'https://twitter.com/DefiantLabs'
-    - icon: ti-discord
+    - icon: ti-flickr-alt
       link: 'https://discord.gg/GVrA9PqQAq'
     - icon: ti-youtube
       link: 'https://www.youtube.com/channel/UCGgtZQ6PKNBa2O7hRnNRSKw'

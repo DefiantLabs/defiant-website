@@ -60,6 +60,10 @@ team:
   - name : "Dan Bryan"
     image : "images/team/dan.png"
     designation : "Founder"
+
+  - name : "Kyle Moser"
+    image : "images/team/kyle.png"
+    designation : "Founder"
     
 
 ################################ Clients ######################
