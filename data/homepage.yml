@@ -22,7 +22,7 @@ banner_feature:
       
     # feature item loop
     - icon : "ti-panel" # here we use themify icon pack : https://themify.me/themify-icons
-      title : "Analyse Your Expensees On Every Device"
+      title : "Analyze Your Expenses On Every Device"
       content : "Saepe nulla praesentium eaque omnis perferendis a doloremque."
       
     # feature item loop
@@ -61,7 +61,7 @@ feature:
 call_to_action:
   enable: true
   title : "Delegate to our Validators"
-  content : "If you like what we build, agree with how we vote on governance propsals, and trust us to secure the network, consider delegating your tokens with us."
+  content : "If you like what we build, agree with how we vote on governance proposals, and trust us to secure the network, consider delegating your tokens with us."
   button:
     enable: true
     label : "Delegate"
@@ -112,7 +112,7 @@ testimonial:
       image : "images/testimonials/melvin-skolnick.png"
       occupation : "Cloud Engineer"
       content : "Anytime I’m trying something new in the Decentralized Finance / Cryptocurrency space I always consult 
-            with Defiant Labs. Defiant Labs is alwas ahead of the curve on anything i try."
+            with Defiant Labs. Defiant Labs is always ahead of the curve on anything I try."
             
     # testimonial item loop
     - name : "Daniel L."

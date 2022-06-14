@@ -14,7 +14,7 @@ image : "images/portfolio/taxes.png"
 Sycamore Tax provides tooling to generate files of your Cosmos activity. We support CSV's compatible with taxsoftware such as cointracker.io, accointing, koinly, and turbotax.  We also support generating the IRS form 8949 that you can hand directly to your CPA. 
 
 Some specific features:
-- Taxable data for Osmosis Liqudity pool bonding/unbonding and rewards (including superfluid staking)
+- Taxable data for Osmosis Liquidity pool bonding/unbonding and rewards (including superfluid staking)
 - Tracking of swap fees for liquidity pool swap transactions
 - Tracking of arbitrage related capital gains (on Osmosis DEX)
 - Accointing and TurboTax compatible CSVs with Osmosis specific data (as above)
