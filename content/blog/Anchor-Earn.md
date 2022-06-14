@@ -25,14 +25,14 @@ Anchor is a decentralized savings protocol built on the Terra Blockchain. It ser
 
 ### How it Works 
 
-The user that lends their Terra stablecoin (UST) to the Anchor protocol is also known as the Depositor. The Depositors receive aUST in return for their deposit allowing them to collect interest by just holding on to them. This newly aquired aUST can also be used as collateral to buy assets in other protocols like [Mirror](https://mirrorprotocol.app/#/trade).  
+The user that lends their Terra stablecoin (UST) to the Anchor protocol is also known as the Depositor. The Depositors receive aUST in return for their deposit allowing them to collect interest by just holding on to them. This newly acquired aUST can also be used as collateral to buy assets in other protocols like [Mirror](https://mirrorprotocol.app/#/trade).  
 
 
 
 ### Ways to Earn 
 - Deposit: Easiest way. Simply deposit UST into Anchor and earn 20% APY.
 - Borrow: Yes Borrow! You can actually earn from borrowing UST. Rewards are distributed in the ANC token. 
-- Staking: Users can stake the native ANC token to receieve staking rewards.
+- Staking: Users can stake the native ANC token to receive staking rewards.
 - Liquidity: Users can earn rewards by staking ANC-UST LP tokens.
 
 
@@ -47,7 +47,7 @@ The user that lends their Terra stablecoin (UST) to the Anchor protocol is also 
 
 Anchor offers high yields for your stablecoin without having to deal with the volatility of the market. With returns like this who needs a savings account. 
 
-Schedule a call today to learn more about the opportunites that Anchor offers. We can also guide you step by step on how to earn these incredible yields on your stablecoin. 
+Schedule a call today to learn more about the opportunities that Anchor offers. We can also guide you step by step on how to earn these incredible yields on your stablecoin. 
 
 [Crypto Consulting](/service/cryptoconsulting)
 

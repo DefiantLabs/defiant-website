@@ -22,7 +22,7 @@ featured_service:
   # service item loop
   - title : "Web3 Development"
     image : "images/service/web3.jpeg"
-    content : "We have fullstack developers that can help you depoy your applications on ethereum, terra, fantom, bsc, avalanche, solana. We will do a 1 on 1 zoom session where we can provide help or insight when deploying to use these protocols."
+    content : "We have fullstack developers that can help you deploy your applications on ethereum, terra, fantom, bsc, avalanche, solana. We will do a 1 on 1 zoom session where we can provide help or insight when deploying to use these protocols."
 
 
 #################### Case Study #####################
