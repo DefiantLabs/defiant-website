@@ -30,8 +30,17 @@ pricing:
       label: "Coming soon"
       link : "#"
       
-  - name : "Cosmos"
+  - name : "Cosmoshub"
     price : "16.89%"
+    price_per : "Yearly"
+    services: 
+    - "last updated: 2022-06-09"
+    button:
+      label: "Coming soon"
+      link : "#"
+
+  - name : "Kujira"
+    price : "??%"
     price_per : "Yearly"
     services: 
     - "last updated: 2022-06-09"
