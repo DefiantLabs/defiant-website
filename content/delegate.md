@@ -12,6 +12,15 @@ pricing:
   content : "We run validator nodes on the following chains.  If you like the work we do, please consider a delegation."
   pricing_table:
 
+  - name : "Kujira Harpoon-4"
+    price : "??%"
+    price_per : "Yearly"
+    services: 
+    - "last updated: 2022-06-09"
+    button:
+      label: "Delegate Now"
+      link : "https://blue.kujira.app/stake/kujiravaloper1qwc7a4kgys2zfswu7a4f5egc0rssep6t7krzh5"
+
   - name : "Juno"
     price : "106.91%"
     price_per : "Yearly"
@@ -47,4 +56,6 @@ pricing:
     button:
       label: "Coming soon"
       link : "#"
+
+
 ---
