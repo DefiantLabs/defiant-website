@@ -27,7 +27,7 @@ params:
       - link: plugins/search/mark.js
       - link: plugins/search/search.js
       - link: plugins/google-map/map.js
-  logo: 'images/logo2.png'
+  logo: 'images/logo.png'
   logo_white: ''
   description: Defiant Labs - Building tools in the cosmos
   author: Themefisher
