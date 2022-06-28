@@ -12,50 +12,40 @@ pricing:
   content : "We run validator nodes on the following chains.  If you like the work we do, please consider a delegation."
   pricing_table:
 
-  - name : "Kujira Harpoon-4"
-    price : "??%"
+  - name : "Kujira"
+    price : "22% ??"
     price_per : "Yearly"
     services: 
-    - "last updated: 2022-06-09"
+    - "last updated: 2022-06-28"
     button:
-      label: "Delegate Now"
-      link : "https://blue.kujira.app/stake/kujiravaloper1qwc7a4kgys2zfswu7a4f5egc0rssep6t7krzh5"
+      label: "ETA July 1st, 2022"
+      link : "#"
 
   - name : "Juno"
-    price : "106.91%"
+    price : "92.17%"
     price_per : "Yearly"
     services: 
-    - "last updated: 2022-06-09"
+    - "last updated: 2022-06-28"
     button:
       label: "Coming soon"
       link : "#"
       
   - name : "Osmo"
-    price : "50.62%"
+    price : "50.98%"
     price_per : "Yearly"
     services: 
-    - "last updated: 2022-06-09"
+    - "last updated: 2022-06-28"
     button:
       label: "Coming soon"
       link : "#"
       
-  - name : "Cosmoshub"
-    price : "16.89%"
+  - name : "Atom"
+    price : "19.22%"
     price_per : "Yearly"
     services: 
-    - "last updated: 2022-06-09"
+    - "last updated: 2022-06-28"
     button:
       label: "Coming soon"
       link : "#"
-
-  - name : "Kujira"
-    price : "??%"
-    price_per : "Yearly"
-    services: 
-    - "last updated: 2022-06-09"
-    button:
-      label: "Coming soon"
-      link : "#"
-
 
 ---
