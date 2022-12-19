@@ -18,8 +18,16 @@ pricing:
     # services: 
     # - "last updated: 2022-06-28"
     button:
-      label: "Delegate Now"
+      label: "Stake"
       link : "https://blue.kujira.app/stake/kujiravaloper1dnmz4yzv73lr3lmauuaa0wpwn8zm8s20memec4"
 
+  - name : "Osmosis"
+    # price : "TBD"
+    # price_per : "Yearly"
+    # services: 
+    # - "last updated: 2022-06-28"
+    button:
+      label: "Stake"
+      link : "https://wallet.keplr.app/chains/osmosis?modal=validator&chain=osmosis-1&validator_address=osmovaloper1dnmz4yzv73lr3lmauuaa0wpwn8zm8s20lg3pg9"
 
 ---

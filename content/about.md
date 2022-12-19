@@ -8,7 +8,7 @@ draft: false
 ######################### Counter ####################
 counter:
   enable: true
-  title : "We build tools <br>for the Cosmos Ecosystem <span class=\"text-color\">to help mainstream</span> adoption easier."
+  title : "We build tools for the Cosmos Ecosystem."
   counter_item:
   # counter item loop
   - icon : "ti-thumb-up" # here we use themify icon pack : https://themify.me/themify-icons
@@ -73,7 +73,6 @@ clients:
   content : ""
   logos:
   - "images/clients/cosmos.png"
-  - "images/clients/dao-dao.png"
 
 
 ################################ Platforms ######################
@@ -83,7 +82,6 @@ platforms:
   content : ""
   logos:
   - "images/platforms/aws.png"
-  - "images/platforms/azure.png"
   - "images/platforms/google-cloud.png"
 
 

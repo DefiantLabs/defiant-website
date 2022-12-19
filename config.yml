@@ -34,10 +34,10 @@ params:
   email: info@defiantlabs.net
   location: Columbia, Maryland
   mobile: +1 667-271-0105
+  twitter: "defiantlabs"
   footer_content: Building tools in the cosmos.
   copyright: >-
-    Founded in 2022, Defiant Labs focuses on Development and Operations in
-    Blockchain environments
+    Founded in 2022, Defiant Labs focuses on building in Cosmos.
   preloader:
     enable: false
     preloader: ''

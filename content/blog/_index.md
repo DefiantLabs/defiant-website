@@ -1,6 +1,6 @@
 ---
-title: "Latest News"
+title: "Latest From Defiant"
 draft: false
-description: "This is meta description"
+description: "Cosmos Taxes"
 page_header_bg: "images/bg/section-bg5.jpg"
 ---

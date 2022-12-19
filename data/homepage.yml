@@ -37,20 +37,21 @@ feature:
   title : "Experts at cosmos-sdk, cosmwasm, and cosmos nodes."
   content : "We provide custom code development around the cosmos-sdk. We have DevOps expertise to keep your nodes available and secure. We solve problems in the cosmos that align with our skill set."
   feature_item:
-    # feature item loop
-    - icon : "ti-cloud" # here we use themify icon pack : https://themify.me/themify-icons
-      title : "Cloud Automation"
-      content : "aws, gcp, azure, kubernetes, terraform devops."
       
     # feature item loop
     - icon : "ti-control-forward" # here we use themify icon pack : https://themify.me/themify-icons
-      title : "Cosmos Nodes"
-      content : "Validator Nodes, Full Nodes, Archive Nodes, Light nodes..."
+      title : "Cosmos Infrastructure"
+      content : "Validators, RPCs, APIs, Archives, and relayers."
       
     # feature item loop
     - icon : "ti-wallet" # here we use themify icon pack : https://themify.me/themify-icons
-      title : "Cosmos Development and Engineering"
-      content : "Custom cosm wasm development and engineering"
+      title : "Cosmos Development"
+      content : "Custom development around cosmos-sdk and cosmwasm."
+
+    # feature item loop
+    - icon : "ti-cloud" # here we use themify icon pack : https://themify.me/themify-icons
+      title : "Cloud Infrastructure"
+      content : "aws, gcp, kubernetes, terraform."
       
     # feature item loop
     - icon : "ti-server" # here we use themify icon pack : https://themify.me/themify-icons
@@ -60,11 +61,11 @@ feature:
 ########################### Call to action #####################################
 call_to_action:
   enable: true
-  title : "Delegate to our Validators"
-  content : "If you like what we build, agree with how we vote on governance proposals, and trust us to secure the network, consider delegating your tokens with us."
+  title : "Stake with us"
+  content : "If you like what we build, consider staking with us."
   button:
     enable: true
-    label : "Delegate"
+    label : "Stake"
     link : "delegate"
 
 ################################### portfolio ####################################

@@ -1,21 +1,16 @@
 ---
-title: "Tooling"
+title: "Redpoint"
 date: 2022-05-05T15:24:04+06:00
 draft: false
-description: "Tooling for Cosmos"
+description: "MEV Simulation for Cosmos"
 page_header_bg: "images/bg/section-bg5.jpg"
 category: "Crypto & Defi"
-image : "images/portfolio/tooling.png"
+image : "images/portfolio/redpoint.png"
 --- 
 
 
-### Engaging content and flexible User experience help to grow more
+### MEV simulation for Cosmos
 
-Defiant Labs builds well architected terraform modules for the cosmos.  Currently we are building a module to allow a secure validator build in AWS.  In the future we will support other cloud providers as well as bare metal installs.
+Redpoint is a service that simulates trades on compatible DEXs and provides the operator with information to maximize trades and capture arbitrage. Redpoint allows a trader (e.g. DEX front end, or wallet) to simulate a trade before submitting it on chain. Redpoint is a JSON REST API.
 
-
-- **Project Name:** Tooling for the Cosmos
-- **Client:** Cosmos Eco System Users
-- **Project Start Date:** May 01, 2022
-- **Project Completion Date:** ongoing
-- **Project url:** https://github.com/DefiantLabs
+https://docs.defiantlabs.net/products/redpoint/
